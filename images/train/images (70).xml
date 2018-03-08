@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>images (70).jpg</filename>
+	<path>/home/miles/Projects/Radiator/images/images (70).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>328</width>
+		<height>153</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>radiator_hose</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>28</ymin>
+			<xmax>319</xmax>
+			<ymax>123</ymax>
+		</bndbox>
+	</object>
+</annotation>
